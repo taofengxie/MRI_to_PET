@@ -1,1 +1,1 @@
-# MRI_to_PET
+# mri_pet_score_based
